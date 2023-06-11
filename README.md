@@ -1,5 +1,5 @@
 # AltDetection
-In-game alt account (using a heat system) detection for Roblox Luau, uses multiple adaptive techniques that will give returning hackers a hard time!
+In-game alt account (using a heat system) detection for Roblox Luau, uses multiple adaptive techniques that will give returning hackers a hard time! Banning, kicking, warning, adding webhooks etc must be implemented manually.
 # Features
 - ⚙ Highly configurable!
 - 👀 Adaptive!
