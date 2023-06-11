@@ -19,4 +19,4 @@ In-game alt account (using a heat system) detection for Roblox Luau, uses multip
 - Not in a group
 - No paid Roblox cosmetics or gamepasses
 
-# ‼ WARNING: PLEASE MAKE SURE TO ENABLE HTTPSERVICE REPLACE proxyEndpoints WITH YOUR OWN PROXY ‼
+# ‼ WARNING: PLEASE MAKE SURE TO ENABLE HTTPSERVICE AND REPLACE proxyEndpoints WITH YOUR OWN PROXY URLS ‼
