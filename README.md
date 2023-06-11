@@ -20,4 +20,4 @@ In-game alt account (using a heat system) detection for Roblox Luau, uses multip
 - No paid Roblox cosmetics or gamepasses
 
 # ‼ WARNING: PLEASE MAKE SURE TO ENABLE HTTPSERVICE AND REPLACE proxyEndpoints WITH YOUR OWN PROXY URLS ‼
-- @Badbird5907 recommended [this proxy](https://corsproxy.io/)
+- [@Badbird5907](github.com/badbird5907) recommended [this proxy](https://corsproxy.io/)
