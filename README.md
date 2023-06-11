@@ -18,3 +18,5 @@ In-game alt account (using a heat system) detection for Roblox Luau, uses multip
 - No favorite games (because [Cracked Combat](https://www.roblox.com/games/9087033497) must be there)
 - Not in a group
 - No paid Roblox cosmetics or gamepasses
+
+# ‼ WARNING: PLEASE MAKE SURE TO ENABLE HTTPSERVICE REPLACE proxyEndpoints WITH YOUR OWN PROXY ‼
